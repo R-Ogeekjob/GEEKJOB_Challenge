@@ -1,0 +1,5 @@
+OS         Windows10 Home
+バージョン 1709
+OSビルド　 16299.431
+プロセッサ Intel(R)Core(TM)i5-4200U CPU @1.60GHz
+実装RAM    4.00 GB

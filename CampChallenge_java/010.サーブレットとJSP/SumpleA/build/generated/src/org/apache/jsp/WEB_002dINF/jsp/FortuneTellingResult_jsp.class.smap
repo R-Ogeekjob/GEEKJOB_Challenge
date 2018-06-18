@@ -1,0 +1,14 @@
+SMAP
+FortuneTellingResult_jsp.java
+JSP
+*S JSP
+*F
++ 0 FortuneTellingResult.jsp
+WEB-INF/jsp/FortuneTellingResult.jsp
+*L
+5,9:45
+14,2:55
+15,7:57
+22,4:65
+25,5:69
+*E

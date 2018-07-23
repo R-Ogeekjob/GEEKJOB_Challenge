@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>dailyReport</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <form action="./getDailyReport.jsp" >
+            <h1>日報作成フォーム</h1><br>
+            1日の学習内容を報告し、帰りましょう！<br><br>
+            <h2>日報作成</h2>
+            氏名：<input type="text" name="txtName"><br><br>
+            本日取り組んだタスク、カリキュラム、それぞれの進捗と実際にかかった
+            工数（時間数）<br>
+            <textarea name="todayTask" rows=3 cols=50 wrap=hard></textarea><br>
+            <br>
+            予定と実際に取り組んだ内容や工数（時間数）に差分が出た場合の原因分析<br>
+            <textarea name="taskDelta" rows=3 cols=50 wrap=hard></textarea><br>
+            
+        </form>
+    </body>
+</html>
